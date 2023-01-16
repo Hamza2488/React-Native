@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "922476562516",
+    "firebase_url": "https://hackathon-ac870-default-rtdb.firebaseio.com",
+    "project_id": "hackathon-ac870",
+    "storage_bucket": "hackathon-ac870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922476562516:android:512e436eb6d15a677ac5c1",
+        "android_client_info": {
+          "package_name": "com.vehicalapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922476562516-mnfr7ndoma397pe3l7pcfkbg656o3nn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSePaijeWSoKu0QKe6Oxkm9Sw5dIZr0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922476562516-mnfr7ndoma397pe3l7pcfkbg656o3nn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
